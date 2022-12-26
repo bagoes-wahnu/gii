@@ -1,9 +1,14 @@
 # GIISYSTEM
 
-<!-- ## Halaman Login
-![Alt text](/screenshot_ksi-ess/login.jpg)
+## Halaman Stock
+![Alt text](/screenshot_gii/Screenshot_2.jpg)
+![Alt text](/screenshot_gii/Screenshot_7.jpg)
+![Alt text](/screenshot_gii/Screenshot_8.jpg)
 
-## Halaman Dashboard
+## Halaman Report Analisa Mutasi Barang
+![Alt text](/screenshot_gii/Screenshot_3.png)
+
+<!-- ## Halaman Dashboard
 ![Alt text](/screenshot_ksi-ess/dashboard.jpg)
 
 ## Halaman Menu Master Indikator KPI
