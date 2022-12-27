@@ -1,9 +1,9 @@
 # GIISYSTEM
 
 ## Halaman Stock
-![Alt text](/screenshot_gii/Screenshot_2.jpg)
-![Alt text](/screenshot_gii/Screenshot_7.jpg)
-![Alt text](/screenshot_gii/Screenshot_8.jpg)
+![Alt text](/screenshot_gii/Screenshot_2.png)
+![Alt text](/screenshot_gii/Screenshot_7.png)
+![Alt text](/screenshot_gii/Screenshot_8.png)
 
 ## Halaman Report Analisa Mutasi Barang
 ![Alt text](/screenshot_gii/Screenshot_3.png)
